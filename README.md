@@ -1,4 +1,4 @@
-## ⚗️ Unit Testing with ReactJS and Jest
+## 🧪 Unit Testing with ReactJS and Jest
 
 ### Tools
 
@@ -29,4 +29,12 @@ $ npm test              # Launch application test.
 
 ### Source
 
-- [React unit testing with Jest & React-testing-library](https://youtu.be/3e1GHCA3GP0) by [Hemil Patel](https://github.com/gitmil)
+Find the tutorial videos here:
+
+**React unit testing with Jest & React-testing-library**
+
+<a href="https://youtu.be/3e1GHCA3GP0"><img alt="Click here for the tutorial videos" src="https://raw.githubusercontent.com/jacques-blom/recoil-design-tool/01-context/video.png" width="200" /></a>
+
+Find the repo github here:
+
+[![Svelte Todo](https://github-readme-stats.vercel.app/api/pin?username=gitmil&repo=react-hooks-jest-tests&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=2C393F)](https://github.com/gitmil/react-hooks-jest-tests)
