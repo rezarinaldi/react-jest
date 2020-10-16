@@ -10,7 +10,7 @@
 ### Run
 
 ```bash
-$ git clone https://github.com/rez4rinaldi/react-jest.git
+$ git clone https://github.com/rezarinaldi/react-jest.git
 $ cd react-jest         # Change current directory to the newly created one.
 $ npm install           # Install Node.js dependencies.
 $ npm start             # Launch application.
